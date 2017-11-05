@@ -149,10 +149,10 @@ P_ABILITY_DESCRIPTION_27=Einheiten mit dieser Fähigkeit erhalten am Zuganfang 2
 P_ABILITY_DESCRIPTION_28=Einheiten mit dieser Fähigkeit erleiden 50% weniger Schaden durch Fernangriffe.
 P_ABILITY_DESCRIPTION_29=Einheiten mit dieser Fähigkeit erleiden 50% weniger Schaden durch physische Angriffe, aber 50% mehr Schaden durch magische Angriffe.
 
-P_STATUS_DESCRIPTION_0=Units who have been poisoned will lose 10 HP at turn start and cannot receive heal.
-P_STATUS_DESCRIPTION_1=For units who have been slowed, their movement points will be reduced to 1.
-P_STATUS_DESCRIPTION_2=For units who have been inspired, their gain 5 attack bonus.
-P_STATUS_DESCRIPTION_3=For units who have been blinded, their attack range will be reduced to 0.
+P_STATUS_DESCRIPTION_0=Einheiten die vergiftet wurden, verlieren bei Zugbeginn 10 HP, und können nicht geheilt werden.
+P_STATUS_DESCRIPTION_1=Einheiten die verlangsamt wurden, haben nur 1 Bewegungspunkt.
+P_STATUS_DESCRIPTION_2=Einheiten die beflügelt wurden, erhalten 5 Angriffsbonus.
+P_STATUS_DESCRIPTION_3=Einheiten die geblendet wurden, haben eine Angriffsreichweite von 0. (Sie können nicht angreifen oder Gegenangriffe ausführen.)
 
 P_UNIT_DESCRIPTION_0=Soldiers are all-round solid fighters, and they can capture or repair villages to give you benefits.
 P_UNIT_DESCRIPTION_1=With their powerful bows archers can attack from a distance and are especially efficient against airborne enemies.
