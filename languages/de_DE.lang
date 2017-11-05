@@ -154,10 +154,10 @@ P_STATUS_DESCRIPTION_1=Einheiten die verlangsamt wurden, haben nur 1 Bewegungspu
 P_STATUS_DESCRIPTION_2=Einheiten die beflügelt wurden, erhalten 5 Angriffsbonus.
 P_STATUS_DESCRIPTION_3=Einheiten die geblendet wurden, haben eine Angriffsreichweite von 0. (Sie können nicht angreifen oder Gegenangriffe ausführen.)
 
-P_UNIT_DESCRIPTION_0=Soldiers are all-round solid fighters, and they can capture or repair villages to give you benefits.
-P_UNIT_DESCRIPTION_1=With their powerful bows archers can attack from a distance and are especially efficient against airborne enemies.
-P_UNIT_DESCRIPTION_2=Water elementals are friends of the water. When in water, they become much more stronger.
-P_UNIT_DESCRIPTION_3=They are skilled in the use of necromancy. Sorceresses are weak in melee combat but they can summon skeletons from the dead to aid you in the battle.
+P_UNIT_DESCRIPTION_0=Soldaten sind rundum solide Kämpfer, und können Dörfer einnehmen oder reparieren.
+P_UNIT_DESCRIPTION_1=Mit ihren kraftvollen Bögen können Bogenschützen aus der Ferne angreifen, und sind besonders effektiv gegen fliegende Einheiten.
+P_UNIT_DESCRIPTION_2=Wasserelementare sind Freunde des Wassers. Im Wasser werden sie deutlich stärker.
+P_UNIT_DESCRIPTION_3=Sie sindThey are skilled in the use of necromancy. Sorceresses are weak in melee combat but they can summon skeletons from the dead to aid you in the battle.
 P_UNIT_DESCRIPTION_4=These mystical beings of pure light have an aura that can remove negative effects from your allies and heal them a little bit.
 P_UNIT_DESCRIPTION_5=Wolves are fearsome hunters with very high motility. They travel very fast on land and kill enemies with their poisonous bites.
 P_UNIT_DESCRIPTION_6=Golems are ancient beings, incredibly strong in physical defence and are even stronger when in the mountains.
